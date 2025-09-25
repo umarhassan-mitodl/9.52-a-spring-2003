@@ -5,6 +5,8 @@ description: The assignments in this section move teaching to the outside world 
   test subjects. Subjects will be scanned in an fMRI during presentation of various
   stimuli, and the areas of the brain that show increased activity will be recorded
   and analyzed.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
